@@ -7,9 +7,9 @@ export const headerData = [
 ];
 
 export const productType = [
-  { title: "Gadget", value: "gadget" },
-  { title: "Appliances", value: "appliances" },
-  { title: "Refrigerators", value: "refrigerators" },
+  { title: "T-shirt", value: "t-shirt" },
+  { title: "Polo", value: "polo" },
+  { title: "Shirt", value: "shirt" },
   { title: "Others", value: "others" },
 ];
 
@@ -28,11 +28,6 @@ export const categoriesData = [
   { title: "Smartphones", href: "smartphones" },
   { title: "Air Conditioners", href: "air-conditioners" },
   { title: "Washing Machine", href: "washing-machine" },
-  { title: "Kitchen Appliances", href: "kitchen-appliances" },
-  { title: "Gadget Accessories", href: "gadget-accessories" },
-  // { title: "Electronics", href: "electronics" },
-  // { title: "Home & Garden", href: "home-garden" },
-  // { title: "Sports & Fitness", href: "sports-fitness" },
 ];
 
 // Enhanced user account menu items

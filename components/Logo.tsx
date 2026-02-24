@@ -6,13 +6,13 @@ const Logo = ({ className }: { className?: string }) => {
     <Link href={"/"}>
       <h2
         className={cn(
-          "w-fit text-2xl text-shop-dark-green font-black tracking-wider uppercase hover:text-shop-green hoverEffect group font-sans",
+          "w-fit text-2xl text-shop-dark-green font-black tracking-wider hover:text-shop-green hoverEffect group",
           className,
         )}
       >
-        Brim
+        Bongo
         <span className="text-shop-green group-hover:text-shop-dark-green hoverEffect">
-          Blu
+          Bazar
         </span>
       </h2>
     </Link>

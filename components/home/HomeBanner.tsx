@@ -25,6 +25,7 @@ const HomeBanner = () => {
         <Image
           src={banner_1}
           alt="banner"
+          loading="eager"
           className="w-96 hidden md:inline-flex"
         />
       </div>

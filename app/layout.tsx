@@ -11,10 +11,10 @@ const poppins = Poppins({
 
 export const metadata: Metadata = {
   title: {
-    template: "%s - BrimBlu",
-    default: "BrimBlu",
+    template: "%s - BongoBazar",
+    default: "BongoBazar",
   },
-  description: "BrimBlu online store, Your one stop shop for all your needs",
+  description: "BongoBazar online store, Your one stop shop for all your needs",
 };
 
 export default function RootLayout({
